@@ -2,7 +2,7 @@
 
 #define MAX_SIZE 100
 
-// Structure to represent the Heap
+// Structure to represent the heao
 struct MaxHeap {
     int data[MAX_SIZE];
     int size;
